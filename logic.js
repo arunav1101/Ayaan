@@ -19,6 +19,6 @@ $("#prePage").on("click",function(e){
 
 $("#page1").on("click",function(e){
     e.preventDefault();
-    open("page1.html")
+    open("page2.html")
 })
 
